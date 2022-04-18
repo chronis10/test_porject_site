@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Σχετικα μέ το FOSSbot
 
-You can use the [editor on GitHub](https://github.com/chronis10/test_porject_site/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Εκπαιδευτικό ρομπότ για το Νηπιαγωγείο και το Δημοτικό. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Επέκταση του "GSOC 2019 - A DIY robot kit for educators.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![](images/front_pen.png)
 
-# Header 1
-## Header 2
-### Header 3
+## Διαθέσιμοι αισθητήρες
 
-- Bulleted
-- List
+* Ultrasonic distance sensor
+* Battery Sensor
+* Accelerometer
+* Gyroscope
+* Odometers
+* IR Receiver
+* Line detection sensors
+* Light Sensors
 
-1. Numbered
-2. List
+## Ειδικά χαρακτηριστικά
 
-**Bold** and _Italic_ and `Code` text
+* Lego compatible surface
+* Hole in front for marker/ pencil attachment
+* Special pulling loop
+* Rechargeable batteries 	
+* Speaker
+* Front RGB LED
 
-[Link](url) and ![Image](src)
-```
+## Προγραμματιστικό περιβάλλον
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![](images/blockly.jpg)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chronis10/test_porject_site/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Ομάδα Ανάπτυξης Υλικού/Λογισμικού
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* Ηρακλής Βαρλάμης
+* Χρήστος Χρόνης
+* Θανάσης Αποστολίδης
+* Ελευθερία Παπαγεωργίου
